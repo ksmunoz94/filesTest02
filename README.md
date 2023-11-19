@@ -2,7 +2,7 @@
 
 Some text.
 
-##Level 2
+## Level 2
 
 Some text. 
 
